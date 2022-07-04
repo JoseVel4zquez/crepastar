@@ -1,0 +1,7 @@
+body {
+  background-color: rgb(144, 118, 97);
+}
+.bg {
+  background-image: url(../img/imgMenu.png);
+  background-position: center center;
+}
